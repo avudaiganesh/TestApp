@@ -11,6 +11,12 @@
             "fullName": "test",
             "email": "admin@admin.com",
             "password": "admin"
+        },
+        {
+            "id": "4f8e",
+            "fullName": "test",
+            "email": "user@user.com",
+            "password": "user"
         }
     ]
 }
